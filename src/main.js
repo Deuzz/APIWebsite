@@ -8,13 +8,13 @@ import axios from 'axios';
 Vue.use(VueAxios, axios);
 
 import App from './App.vue';
-import CreateItem from './components/CreateItem.vue';
+import Home from './components/Home.vue';
 
 const routes = [
   {
-        name: 'CreateItem',
+        name: 'Home',
         path: '/',
-        component: CreateItem
+        component: Home
     }
 ];
 

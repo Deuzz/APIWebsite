@@ -1,5 +1,3 @@
-// CreateItem.vue
-
 <template>
   <div>
     <h1>Create An Item</h1>
@@ -26,6 +24,9 @@
     </form>
   </div>
 </template>
+
+
+
 
 <script>
 export default {

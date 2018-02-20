@@ -1,5 +1,3 @@
-// App.vue
-
 <template>
     <div class="container">
         <div>
@@ -20,7 +18,5 @@
 </style>
 
 <script>
-
-    export default{
-    }
+    export default{}
 </script>
